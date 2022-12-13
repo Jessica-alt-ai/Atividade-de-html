@@ -1,0 +1,353 @@
+QUESTÃO 1)
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AtividadeHTML</title>
+</head>
+<body>
+    <h1>Top 10 sites</h1>
+    <uil>
+        <li> Site 1<a href="https://www.google.com/"target="_blank" rel="External"> Google</a></li>
+    </uil>
+    <uil>
+        <li> Site 2<a href="https://www.youtube.com/"target="_blank" rel="External"> Youtube</a></li>
+    </uil>
+    <uil>
+        <li> Site 3<a href="https://www.globo.com/"target="_blank" rel="External"> Globo</a></li>
+    </uil>
+    <uil>
+        <li> Site 4<a href="https://twitter.com/"target="_blank" rel="External"> Twitter</a></li>
+    </uil>
+    <uil>
+        <li> Site 5<a href="https://www.facebook.com/"target="_blank" rel="External"> Facebook</a></li>
+    </uil>
+    <uil>
+        <li> Site 6<a href="https://www.uol.com.br/"target="_blank" rel="External"> Uol</a></li>
+    </uil>
+    <uil>
+        <li> Site 7<a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"target="_blank" rel="External"> Wikipédia</a></li>
+    </uil>
+    <uil>
+        <li> Site 8<a href="https://www.instagram.com/"target="_blank" rel="External"> Instagram</a></li>
+    </uil>
+    <uil>
+        <li> Site 9<a href="https://www.amazon.com.br/"target="_blank" rel="External"> Amazon</a></li>
+    </uil>
+    <uil>
+        <li> Site 10<a href="https://www.mercadolivre.com.br/"target="_blank" rel="External"> Mercado Livre</a></li>
+    </uil><br/>
+    
+________________________________________________________________________________________________________________________________________
+QUESTÃO 02)
+
+
+    <b><ol>
+        <li>Lucas Santana</li>
+        <ul style="list-style: disc;">
+          <li>Matemática</li>
+          <li>Química</li>
+          <li>Física</li>
+        </ul>
+        </br>
+        <li>Gabriel Torres</li>
+        <ul style="list-style: disc;">
+          <li>Filosofia</li>
+          <li>Sociologia</li>
+          <li>Geografia</li>
+        </ul>
+        </br>
+        <li>Fernando Pessoa</li>
+        <ul style="list-style: disc;">
+          <li>Aquicultura</li>
+        </ol>  
+        </ul>
+        </br></b><br/>
+_____________________________________________________________________________________________________________________________________________________________________
+
+
+QUESTÃO 03        
+
+
+<font size = 6>Queima de Estoque</font><br>
+<font size = 5>Do iFome</font>
+<hr width="100%">
+<br/>
+<font size = 5>Lula no Palito</font>
+<br/>
+<img src = "https://img.freepik.com/fotos-premium/lula-assada-no-palito_10589-308.jpg?w=740"><br/>
+De <S>R$ 119,99</S><br/>
+<b>POR R$ 79,99</b><br/>
+<br/>
+<br/>
+<br/>
+
+
+<hr width="100%">
+<br/>
+<br/>
+<br/>
+<font size = 5>Apex Buguer</font><br/>
+<font size = 4><i> hambúrgueres de 250g, molho barbecue, molho de bacon, molho de pimenta, pão e bacon, maionese temperada com bacon</i></font>
+<br/>
+<br/>
+<br/>
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA1sm37EWhzN6VKqfu2IwdhWVXDpAZUes99A&usqp=CAU"alt="Image" height="400"><br/>
+De <S>R$ 79,99</S><br/>
+<b>POR R$ 59,99</b><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+___________________________________________________________________________________________________________________________________
+
+QUESTÃO 04)
+
+
+</table><br/>
+
+<table border="1" style="width: 100%">
+    <TR>
+    <th colspan="6"><h1>GRUPO A</h1></th>
+    
+</TR>
+<tr>
+   
+    <th colspan="3">Equipe</th>
+    <th>Pts</th>
+    <th>PJ</th>
+    <th>VIT</th>
+</tr>
+<tr>
+    
+    <td colspan="3">Holanda</td>
+    <td>7</td>
+    <td>3</td>
+    <td>2</td>
+</tr>
+<tr>
+    
+    <td colspan="3">Senegal</td>
+    <td>6</td>
+    <td>3</td>
+    <td>2</td>
+</tr>
+<tr>
+    
+    <td colspan="3">Equador</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+</tr>
+<tr>
+    
+    <td colspan="3">Catar</td>
+    <td>0</td>
+    <td>3</td>
+    <td>0</td>
+</tr>
+</table>
+<br/>
+<br/>
+</table><br/>
+
+<table border="1" style="width: 100%">
+    <TR>
+    <th colspan="6"><h1>GRUPO B</h1></th>
+    
+</TR>
+<tr>
+   
+    <th colspan="3">Equipe</th>
+    <th>Pts</th>
+    <th>PJ</th>
+    <th>VIT</th>
+</tr>
+<tr>
+    
+    <td colspan="3">Inglaterra</td>
+    <td>7</td>
+    <td>3</td>
+    <td>2</td>
+</tr>
+<tr>
+    
+    <td colspan="3">Estados Unidos</td>
+    <td>5</td>
+    <td>3</td>
+    <td>1</td>
+</tr>
+<tr>
+    
+    <td colspan="3">Irã</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+</tr>
+<tr>
+    
+    <td colspan="3">Gales</td>
+    <td>1</td>
+    <td>3</td>
+    <td>0</td>
+</tr>
+</table> 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+    
+</body>
+</html>
+
+_______________________________________________________________________________________________________________________________________
+QUESTÃO 05 (INDEX)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Página inicial Esportes</h1>
+
+    <p>Aqui você pode acessar a página de<a href="Futebol.html"
+        target="_blank" rel="External">
+    FUTEBOL!</a></p>
+
+    <p>Aqui você pode acessar a página de<a href="Vôlei.html"
+        target="_blank" rel="External">
+    VÔLEI!</a></p>
+
+    <p>Aqui você pode acessar a página de<a href="Atletismo.html"
+        target="_blank" rel="External">
+    ATLETISMO!</a></p>
+</body>
+</html>
+_____________________________________________________________________________________________________________________________________
+ATLETISMO
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atletismo</title>
+</head>
+<body>
+    <center><h1>Atletismo</h1>
+    <img src="https://static.significados.com.br/foto/100-metros-com-barreiras-cke.jpg"></center>
+    <h2>Classificação</h2>
+    <p>O Atletismo é um esporte composto por diversas modalidades classificadas em: <br/>
+
+        - Corridas: de curta distância e longa distância, além de provas de revezamento e com obstáculos e da marcha atlética;<br/>
+        
+        - Saltos: de altura, em distância e triplo;<br/>
+        
+        - Lançamentos e Arremessos: podem ser de dardo, disco, martelo e de peso. Consiste em lançar o objeto o mais longe possível do ponto inicial.
+        </p>
+
+        <P>Veja mais sobre:<a href="Futebol.html" target="_blank" rel="External">
+            Futebol
+        </a></P>
+
+        <P>Veja mais sobre:<a href="Vôlei.html" target="_blank" rel="External">
+            Vôlei
+        </a></P>
+
+        <P>Volte para a:<a href="index.html" target="_blank" rel="External">
+            Página inicial de esportes
+        </a></P> 
+    
+</body>
+</html>
+_____________________________________________________________________________________________________
+FUTEBOL
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Futebol</title>
+</head>
+<body>
+    <h1><center>Copa do mundo</center></h1>
+    <center><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwT1-uk-63RRGAYnodgRzSeZyDaT7cYtVfjA&usqp=CAU"alt="Image" height="300"></center>
+    
+    <h2>Semifinal</h2>
+    <p>Argentina e Croácia disputam a semifinal da copa do mundo no dia 13/12/2022 as 16:00 horas.</p>
+    <p>França e Marrocos jogam no dia 14/12/2022, também as 16:00 horas.</p>
+
+    <P>Veja mais sobre:<a href="Atletismo.html" target="_blank" rel="External">
+        Atletismo
+    </a></P>
+
+    <P>Veja mais sobre:<a href="Vôlei.html" target="_blank" rel="External">
+        Vôlei
+    </a></P>
+
+    <P>Volte para a:<a href="index.html" target="_blank" rel="External">
+        Página inicial de esportes
+    </a></P> 
+
+</body>
+</html>
+
+_____________________________________________________________________________________________________________________________________________________________________
+VÔLEI
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vôlei</title>
+</head>
+<body>
+    <center><h1>Jogos Olímpicos</h1>
+    <img src = "https://img.olympicchannel.com/images/image/private/f_auto/t_s_pog_staticContent_hero_xl/primary/ty7aik0obvpgcsoczsps"></center>
+    <h2>França 2024</h2>
+    <p>Competição do voleibol será na South Paris Arena 1 e ocupará boa parte do calendário Olímpico. Estrelas do esporte, como a italiana Paola Egonu, o francês Earvin N'Gapeth e a brasileira Gabi prometem entregar mais um espetáculo no maior evento esportivo do mundo.</p>
+    <P>Veja mais sobre:<a href="Futebol.html" target="_blank" rel="External">
+        Futebol
+    </a></P>
+
+    <P>Veja mais sobre:<a href="Atletismo.html" target="_blank" rel="External">
+        Atletismo
+    </a></P>
+
+    <P>Volte para a:<a href="index.html" target="_blank" rel="External">
+        Página inicial de esportes
+    </a></P> 
+
+
+    
+</body>
+</html>
